@@ -5,11 +5,12 @@
     <a href='#voltar-topo'><img src="./assets/img/logo-projeto.jpg" alt="Logotipo do projeto" height="140" width="260"></a>
   </div><br>
 
-  <h1>YouTube Clone Page</h1>
-  <p>Página clone de um canal do YouTube feita em HTML, CSS, JavaScript, onde o usuário pode adicionar os vídeos na lista de reprodução</p>
+  <h1>Dicionário pt-br</h1>
+  <p>Projeto de um dicionário em português, utilizando HTML/CSS/JavaScript</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/youtube-clone-page/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="License MIT"></a>
+    <a href="https://github.com/Doug-Silva/dictionary/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
+    alt="License MIT"></a>
   </div><br>
 
   <!--Adicionar imagem/gif do projeto aqui-->
